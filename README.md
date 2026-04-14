@@ -1,4 +1,4 @@
-# Experimentala Codesign for 6DOF ATMOS
+# Experimental Codesign for 6DOF ATMOS
 
 ## Dependencies
 - Robotic Systems Toolbox or Navigation Toolbox
